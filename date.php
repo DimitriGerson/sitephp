@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+
 <?php
 $variable1=" PHP 7";
 ?>
@@ -17,6 +18,7 @@ echo '<h1>BONJOUR A TOUS </h1>';
 echo "<h2>Titre écrit en PHP </h2>";
 $variable2="MySQL";
 ?>
+<p>git</p>
 <p>Utilisation de variables PHP<br />Vous allez découvrir également
 <?php
 echo $variable2

@@ -3,7 +3,7 @@
 # copier les elements d'un dossier dans un autre
 # pour mettre à jour le dossier de travail avec celui sur le serveur
 DEPART="/home/dimgers/php/sitephp"
-DESTINATION="/var/www/html/sitephp"
+DESTINATION="/var/www/html"
 #DEPART= "/home/dimgers/API"
 #DESTINATION="/var/www/html"
 #######fonction confirm pour valider la copie ######

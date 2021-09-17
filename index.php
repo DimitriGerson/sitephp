@@ -7,6 +7,7 @@ $textepresentation="Le VAE le plaisir de la route.";
 $titreaericle="Quel VAE acheter ?";
 $textarticle="l'important étant d'avoir un vélo adapté.";
 
+include("doctype.inc.php");
 include("head.inc.php");
 include("nav.inc.php");
 include("corps.inc.php");

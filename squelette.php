@@ -2,12 +2,12 @@
 <html>
     <head>
         <meta charset="utf-8" />
-        <title>Dimitri Gerson - Le Site Web</title>
+        <title>Guide du VAE incrémental</title>
     </head>
 
     <body>
         <header>
-            <h1>Dimitri Gerson</h1>
+            <h1>Guide du VAE incrémental</h1>
             <h2>Présentation</h2>
         </header>
         

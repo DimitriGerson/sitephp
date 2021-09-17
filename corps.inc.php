@@ -1,11 +1,17 @@
 <section>
 	<aside>
-		<h2>$titrepresentation</h2>
-		<p>$textepresentation</p>
+	<?php
+echo "<h2>$titrepresentation</h2>";
+
+echo "<p>$textepresentation</p>";
+?>
 	</aside>
+
 	<article>
-		<h3>$titrearticle</h3>
-		<p>$textarticle</p>
+<?php
+echo "<h3>$titrearticle</h3>";
+echo "<p>$textarticle</p>";
+?>
 	</article>
 </section>
 
